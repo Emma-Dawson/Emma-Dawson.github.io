@@ -48,7 +48,7 @@ Mentorship
   * Paired with incoming 1st year Echols Scholar
   * Provided class advice, transition to college support, and resources for attending college during COVID-19
   
-Service and leadership
+Service and Leadership
 ======
 * Spring 2022 - Fall 2024: Varsity Women's Soccer Team Co-Captain
   * University of Virginia
