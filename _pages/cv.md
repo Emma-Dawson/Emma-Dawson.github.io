@@ -41,7 +41,7 @@ Teaching
 
 Mentorship
 ======
-* Fall 2024 - Present: Spring 2023: Distinguished Majors Program (DMP) Mentor
+* Fall 2024 - Present: Distinguished Majors Program (DMP) Mentor
   * Held weekly meetings with a 4th year student to plan and compose a research proposal and perform subsequent analyses towards completion of DMP thesis
   * Provided guidance on relevant literature, analysis techniques, coding, and contextualization of results
 * Fall 2020 - Spring 2021: Echols Scholar Mentor
