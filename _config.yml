@@ -272,7 +272,7 @@ defaults:
       path: ""
       type: me
     values:
-      layout: archive-taxonomy
+      layout: single
       author_profile: true
       share: true
       comment: true
